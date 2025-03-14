@@ -2,7 +2,7 @@
 
 ## 📚 About Me
 - 🎓 3rd-year Bachelor of Computer Science @ RMIT University  
-- 💻 Full Stack Developer Intern @ BusinessLocal
+- 💻 Full Stack Developer Intern @[BusinessLocal](https://github.com/BusinessLocal)
 - 🛠️ Technical Support Analyst Volunteer @ LifeStyle Markets Australia 
 - 🔍 Interested in Full-stack Development (Backend), Cybersecurity, Networking, AI, and Automation
 
