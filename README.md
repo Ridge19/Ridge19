@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Ridge Tagala!
 
-<!--
-**Ridge19/Ridge19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 About Me
+- 🎓 3rd-year Bachelor of Computer Science @ RMIT University  
+- 💻 Full Stack Developer Intern @ BusinessLocal
+- 🛠️ Technical Support Analyst Volunteer @ LifeStyle Markets Australia 
+- 🔍 Interested in Full-stack Development (Backend), Cybersecurity, Networking, AI, and Automation
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Java, C++, Python, JavaScript, TypeScript, PHP, HTML/CSS  
+- **Frameworks & Tools:** Node.js, React, Express, MySQL, PostgreSQL, MongoDB
+- **Interested in:** Networking, Cybersecurity, API Development, Automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+- 🌐 [Portfolio](https://riidgyy.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ridge-tagala2002)
+- 📧 Email: riidgyy@gmail.com
+
+
