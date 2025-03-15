@@ -12,7 +12,7 @@
 - **Interested in:** Networking, Cybersecurity, API Development, Automation  
 
 ## 📫 Let's Connect!
-- 🌐 [Portfolio](https://riidgyy.com)
+- 🌐 [Portfolio](https://riidgyy.com) - Currently a work in progress :/
 - 💼 [LinkedIn](https://www.linkedin.com/in/ridge-tagala2002)
 - 📧 Email: riidgyy@gmail.com
 
