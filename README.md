@@ -9,7 +9,14 @@
 ## 🛠️ Tech Stack
 - **Languages:** Java, C++, Python, JavaScript, TypeScript, PHP, HTML/CSS  
 - **Frameworks & Tools:** Node.js, React, Express, MySQL, PostgreSQL, MongoDB
-- **Interested in:** Networking, Cybersecurity, API Development, Automation  
+- **Interested in:** Networking, Cybersecurity, API Development, Automation
+
+## 📚 Currently Studying
+- ⚡ Full Stack Development – TypeScript, JavaScript (JSX/TSX), Node.js, Next.js, HTML/CSS
+- ☁️ Cloud Computing – AWS, Java, Python
+- 🧠 Algo****rithms and Analysis – Advanced algorithmic techniques using Python
+- 🚀 Innovation Ecosystems – Exploring technology-driven innovation and entrepreneurship
+
 
 ## 📫 Let's Connect!
 - 🌐 [Portfolio](https://riidgyy.com) - Currently a work in progress :/
