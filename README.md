@@ -14,7 +14,7 @@
 ## 📚 Currently Studying
 - ⚡ Full Stack Development – TypeScript, JavaScript (JSX/TSX), Node.js, Next.js, HTML/CSS
 - ☁️ Cloud Computing – AWS, Java, Python
-- 🧠 Algo****rithms and Analysis – Advanced algorithmic techniques using Python
+- 🧠 Algorithms and Analysis – Advanced algorithmic techniques using Python
 - 🚀 Innovation Ecosystems – Exploring technology-driven innovation and entrepreneurship
 
 
