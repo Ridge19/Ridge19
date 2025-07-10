@@ -3,7 +3,7 @@
 ## 📚 About Me
 - 🎓 3rd-year Bachelor of Computer Science @ RMIT University  
 - 💻 Full Stack Developer Intern @[BusinessLocal](https://github.com/BusinessLocal)
-- 🛠️ Technical Support Analyst Volunteer @ LifeStyle Markets Australia 
+- 🚀 Software Engineer for RMIT Rover Team @[RMIT Rover](https://www.linkedin.com/company/rmitroverteam/)
 - 🔍 Interested in Full-stack Development (Backend), Cybersecurity, Networking, AI, and Automation
 
 <!--
