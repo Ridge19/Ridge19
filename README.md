@@ -5,12 +5,14 @@
 - 💻 Full Stack Developer Intern @[BusinessLocal](https://github.com/BusinessLocal)
 - 🛠️ Technical Support Analyst Volunteer @ LifeStyle Markets Australia 
 - 🔍 Interested in Full-stack Development (Backend), Cybersecurity, Networking, AI, and Automation
-  
+
+<!--
 ## 📚 Currently Studying
 - ⚡ Full Stack Development – TypeScript, JavaScript (JSX/TSX), Node.js, Next.js, HTML/CSS
 - ☁️ Cloud Computing – AWS, Java, Python
 - 🧠 Algorithms and Analysis – Advanced algorithmic techniques using Python
 - 🚀 Innovation Ecosystems – Exploring technology-driven innovation and entrepreneurship
+-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ridge.zip) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridge-tagala2002)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:riidgyy@gmail.com) [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=flat&logo=githubpages&logoColor=white)](https://riidgyy.com)*
