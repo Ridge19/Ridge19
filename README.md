@@ -47,7 +47,7 @@
 <h2 align="center" style="font-size:2em;">💻 Tech Stack</h2>
 
 <h3 align="center" style="font-size:1.5em;">🌐 Frontend Development</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
+<p align="center" style="display: inline-flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
     <span>HTML5</span>
@@ -68,10 +68,10 @@
     <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" />
     <span>Flutter</span>
   </div>
-</div>
+</p>
 
 <h3 align="center" style="font-size:1.5em;">🖥️ Backend Development</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
+<p align="center" style="display: inline-flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" />
     <span>NodeJS</span>
@@ -92,10 +92,10 @@
     <img width="70" height="70" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeORM" />
     <span>TypeORM</span>
   </div>
-</div>
+</p>
 
 <h3 align="center" style="font-size:1.5em;">🗄️ Databases</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
+<p align="center" style="display: inline-flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
     <span>MySQL</span>
@@ -108,10 +108,10 @@
     <img width="70" height="70" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="MS SQL Server" />
     <span>MS SQL Server</span>
   </div>
-</div>
+</p>
 
 <h3 align="center" style="font-size:1.5em;">☁️ Cloud & DevOps</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
+<p align="center" style="display: inline-flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img width="70" height="70" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" />
     <span>AWS</span>
@@ -128,10 +128,10 @@
     <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
     <span>Docker</span>
   </div>
-</div>
+</p>
 
 <h3 align="center" style="font-size:1.5em;">🔢 Programming Languages</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
+<p align="center" style="display: inline-flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
     <span>C++</span>
@@ -148,10 +148,10 @@
     <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
     <span>Python</span>
   </div>
-</div>
+</p>
 
 <h3 align="center" style="font-size:1.5em;">📊 Data Science & Machine Learning</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
+<p align="center" style="display: inline-flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" />
     <span>Pandas</span>
@@ -172,10 +172,10 @@
     <img width="70" height="70" src="https://scipy.org/images/logo.svg" alt="Scipy" />
     <span>Scipy</span>
   </div>
-</div>
+</p>
 
 <h3 align="center" style="font-size:1.5em;">🛠️ Version Control & CI/CD</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
+<p align="center" style="display: inline-flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
     <span>Git</span>
@@ -192,56 +192,5 @@
     <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" />
     <span>Bitbucket</span>
   </div>
-</div>
+</p>
 
-<h3 align="center" style="font-size:1.5em;">🎨 UI/UX & Design</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" />
-    <span>Canva</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
-    <span>Figma</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="70" height="70" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" />
-    <span>Adobe XD</span>
-  </div>
-</div>
-
-<h3 align="center" style="font-size:1.5em;">🎥 Adobe Creative Suite</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="70" height="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg" alt="Adobe Creative Cloud" />
-    <span>Creative Cloud</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="70" height="70" src="https://get.adobe.com/reader/40ade5b0b8/images/adobe_logo.png" alt="Acrobat Reader" />
-    <span>Acrobat Reader</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="70" height="70" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" />
-    <span>Illustrator</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="70" height="70" src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects-40.svg" alt="Adobe After Effects" />
-    <span>After Effects</span>
-  </div>
-</div>
-
-<h3 align="center" style="font-size:1.5em;">🖥️ Other Tools & Technologies</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 60px; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="70" height="70" src="https://store-images.s-microsoft.com/image/apps.8232.13926773940052066.8978812d-6c65-429b-835d-2cecd178e2d7.7cb2976d-0593-49c3-8ab7-8bce4a09d750?h=115" alt="Windows Terminal" />
-    <span>Windows Terminal</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" />
-    <span>Trello</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" />
-    <span>NPM</span>
-  </div>
-</div>
