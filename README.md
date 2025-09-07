@@ -1,58 +1,37 @@
-<style>
-td, tr, th {
-   border: none!important;
-}
-</style>
+<h1 align="center" style="font-size:3.5em; animation:fadeIn 1s ease-in;">👋 Hi, I'm Ridge Tagala!</h1>
 
-<h1 align="center" style="font-size:3.5em;">👋 Hi, I'm Ridge Tagala!</h1>
-
-<h2 align="center" style="font-size:2.5em;">📚 About Me</h2>
-<ul>
+<h2 align="center" style="font-size:2.5em; animation:fadeIn 1.5s ease-in;">📚 About Me</h2>
+<ul style="animation:fadeIn 2s ease-in;">
   <li>3rd-year Computer Science student @ RMIT University</li>
   <li>💻 <strong>Full Stack Developer Intern</strong> at <a href="https://github.com/BusinessLocal">BusinessLocal</a></li>
   <li>🚀 <strong>Software Engineer</strong> for <a href="https://www.linkedin.com/company/rmitroverteam/">RMIT Rover Team</a></li>
   <li>🔍 <strong>Interests:</strong> Backend, Cybersecurity, Networking, AI, Automation</li>
 </ul>
 
-<h2 align="center" style="font-size:2em;">📚 Currently Studying</h2>
-<ul>
-  <li>🤖 <strong>Artificial Intelligence:</strong> <span style="color:gray;">Intelligent systems, search algorithms, machine learning</span></li>
-  <li>🧮 <strong>Computing Theory:</strong> <span style="color:gray;">Turing machines, automata, computation foundations</span></li>
-  <li>🛠️ <strong>Software Engineering:</strong> <span style="color:gray;">Agile, testing, version control, workflows</span></li>
-</ul>
-
-<h2 align="center" style="font-size:2em;">📊 GitHub Stats</h2>
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-	<br/>
-	<img src="https://nirzak-streak-stats.vercel.app/?user=Ridge19&theme=dark&hide_border=false" alt="GitHub Streak" />
-	<br/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
-<h2 align="center" style="font-size:2em;">🌐 Socials</h2>
+<h2 align="center" style="font-size:2em; animation:fadeIn 2.5s ease-in;">🌐 Socials</h2>
 <div align="center" style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap;">
-  <div align="center">
+  <div align="center" style="transition: transform 0.3s; hover:transform:scale(1.2);">
     <a href="https://instagram.com/Ridge.zip">
-      <img width="70" height="70" alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+      <img width="70" height="70" alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
     <br><sub>Instagram</sub>
   </div>
   <div align="center">
     <a href="https://www.linkedin.com/in/ridge-tagala2002/">
-      <img width="70" height="70" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+      <img width="70" height="70" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
     <br><sub>LinkedIn</sub>
   </div>
   <div align="center">
     <a href="https://riidgyy.com">
-      <img width="70" height="70" alt="Portfolio" src="assets/favicon.png" />
+      <img width="70" height="70" alt="Portfolio" src="assets/favicon.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
     <br><sub>Portfolio</sub>
   </div>
 </div>
 
 <br>
+
 
 <h2 align="center" style="font-size:2em;">💻 Tech Stack</h2>
 
