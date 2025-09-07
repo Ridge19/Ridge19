@@ -1,10 +1,11 @@
-
-<h1 align="center" style="font-size:3.5em;">👋 Hi, I'm Ridge Tagala!</h1>
 <div align="center">
-	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello" />
+	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100%" alt="animated hello" />
 </div>
 
 <h2 align="center" style="font-size:2.5em;">📚 About Me</h2>
+<div align="center">
+	<img src="assets/readme-banner.png" alt="README Banner" width="100%" />
+</div>
 <div align="center">
 	<ul style="display: inline-block; text-align: left;">
 		<li>3rd-year Computer Science student @ RMIT University</li>
