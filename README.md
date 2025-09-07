@@ -4,7 +4,7 @@
 
 <h2 align="center" style="font-size:2.5em;">📚 About Me</h2>
 <div align="center">
-	<img src="assets/readme-banner.png" alt="README Banner" width="100%" />
+	<img src="assets/README-banner.png" alt="README Banner" width="100%" />
 </div>
 <div align="center">
 	<ul style="display: inline-block; text-align: left;">
