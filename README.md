@@ -1,64 +1,267 @@
-# 👋 Hi, I'm Ridge Tagala!<br>
+<h1 align="center" style="font-size:2.5em;">👋 Hi, I'm Ridge Tagala!</h1>
 
-## 📚 About Me
+<h2 align="center" style="font-size:2em;">📚 About Me</h2>
 - 🎓 3rd-year Bachelor of Computer Science @ RMIT University  
 - 💻 Full Stack Developer Intern @[BusinessLocal](https://github.com/BusinessLocal)
 - 🚀 Software Engineer for RMIT Rover Team @[RMIT Rover](https://www.linkedin.com/company/rmitroverteam/)
 - 🔍 Interested in Full-stack Development (Backend), Cybersecurity, Networking, AI, and Automation
 
-<!--
-## 📚 Currently Studying
-- ⚡ Full Stack Development – TypeScript, JavaScript (JSX/TSX), Node.js, Next.js, HTML/CSS
-- ☁️ Cloud Computing – AWS, Java, Python
-- 🧠 Algorithms and Analysis – Advanced algorithmic techniques using Python
-- 🚀 Innovation Ecosystems – Exploring technology-driven innovation and entrepreneurship
--->
+<h2 align="center" style="font-size:2em;">📚 Currently Studying</h2>
+- 🤖 Artificial Intelligence – Exploring intelligent systems, search algorithms, and machine learning techniques
+- 🧮 Computing Theory – Turing machines, automata, and the foundations of computation
+- 🛠️ Software Engineering: Processes & Tools – Agile, testing, version control, and modern development workflows
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Ridge.zip)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridge-tagala2002)
-[![Website](https://img.shields.io/badge/Website-12100E.svg?style=for-the-badge&logo=data:image/x-icon;base64,AAABAAEAEBAAAAAAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiK8/gYi0Qo7t3s9x2ePXeuLj1n7j49B+6Oe+ctjKko+9vYO6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)](https://riidgyy.com)
+<h2 align="center" style="font-size:2em;">🌐 Socials</h2>
+
+
+<div align="center">
+	<table>
+		<tr>
+			<td align="center">
+				<a href="https://instagram.com/Ridge.zip">
+					<img width="50" height="50" alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+				</a>
+			</td>
+			<td align="center">
+				<a href="https://www.linkedin.com/in/ridge-tagala2002/">
+					<img width="50" height="50" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+				</a>
+			</td>
+			<td align="center">
+				<a href="https://riidgyy.com">
+					<img width="50" height="50" alt="Portfolio" src="assets/favicon.png" />
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center"><sub>Instagram</sub></td>
+			<td align="center"><sub>LinkedIn</sub></td>
+			<td align="center"><sub>Portfolio</sub></td>
+		</tr>
+	</table>
+</div>
+
+
+
 
 <br>
 
-## 💻 Tech Stack
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<h2 align="center" style="font-size:2em;">💻 Tech Stack</h2>
 
-### 🖥️ Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeORM](https://img.shields.io/badge/typeorm-%23282C34.svg?style=for-the-badge&logo=typeorm&logoColor=white)
+<h3 align="center" style="font-size:1.5em;">🌐 Frontend Development</h3>
+<div align="center">
+	<table>
+		<tr>
+			<td align="center">
+				<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+			</td>
+			<td align="center">
+				<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+			</td>
+			<td align="center">
+				<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+			</td>
+			<td align="center">
+				<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JavaFX" />
+			</td>
+			<td align="center">
+				<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" />
+			</td>
+		</tr>
+		<tr>
+			<td align="center"><sub>HTML5</sub></td>
+			<td align="center"><sub>JavaScript</sub></td>
+			<td align="center"><sub>TypeScript</sub></td>
+			<td align="center"><sub>JavaFX</sub></td>
+			<td align="center"><sub>Flutter</sub></td>
+		</tr>
+	</table>
+</div>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🔢 Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-
-### 📊 Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
-### 🛠️ Version Control & CI/CD
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-### 🎨 UI/UX & Design
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-### 🎥 Adobe Creative Suite
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-
-### 🖥️ Other Tools & Technologies
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+<h3 align="center" style="font-size:1.5em;">🖥️ Backend Development</h3>
+<div align="center">
+	<table>
+		<tr>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" /></td>
+			<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" /></td>
+			<td align="center"><img width="40" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeORM" /></td>
+		</tr>
+		<tr>
+			<td align="center"><sub>NodeJS</sub></td>
+			<td align="center"><sub>Laravel</sub></td>
+			<td align="center"><sub>Apache</sub></td>
+			<td align="center"><sub>GraphQL</sub></td>
+			<td align="center"><sub>TypeORM</sub></td>
+		</tr>
+	</table>
+</div>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ridge19&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="center" style="font-size:1.5em;">🗄️ Databases</h3>
+<div align="center">
+	<table>
+		<tr>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" /></td>
+			<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="Microsoft SQL Server" /></td>
+		</tr>
+		<tr>
+			<td align="center"><sub>MySQL</sub></td>
+			<td align="center"><sub>SQLite</sub></td>
+			<td align="center"><sub>MS SQL Server</sub></td>
+		</tr>
+	</table>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<h3 align="center" style="font-size:1.5em;">☁️ Cloud & DevOps</h3>
+<div align="center">
+	<table>
+		<tr>
+			<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" /></td>
+		</tr>
+		<tr>
+			<td align="center"><sub>AWS</sub></td>
+			<td align="center"><sub>Firebase</sub></td>
+			<td align="center"><sub>Google Cloud</sub></td>
+			<td align="center"><sub>Docker</sub></td>
+		</tr>
+	</table>
+</div>
+
+
+<h3 align="center" style="font-size:1.5em;">🔢 Programming Languages</h3>
+<div align="center">
+	<table>
+		<tr>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></td>
+		</tr>
+		<tr>
+			<td align="center"><sub>C++</sub></td>
+			<td align="center"><sub>C#</sub></td>
+			<td align="center"><sub>Java</sub></td>
+			<td align="center"><sub>Python</sub></td>
+		</tr>
+	</table>
+</div>
+
+
+<h3 align="center" style="font-size:1.5em;">📊 Data Science & Machine Learning</h3>
+<div align="center">
+	<table>
+		<tr>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" /></td>
+			<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" /></td>
+			<td align="center"><img width="40" src="https://scipy.org/images/logo.svg" alt="Scipy" /></td>
+		</tr>
+		<tr>
+			<td align="center"><sub>Pandas</sub></td>
+			<td align="center"><sub>NumPy</sub></td>
+			<td align="center"><sub>Matplotlib</sub></td>
+			<td align="center"><sub>scikit-learn</sub></td>
+			<td align="center"><sub>Scipy</sub></td>
+		</tr>
+	</table>
+</div>
+
+
+<h3 align="center" style="font-size:1.5em;">🛠️ Version Control & CI/CD</h3>
+<div align="center">
+	<table>
+		<tr>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></td>
+			<td align="center"><img width="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Actions" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab CI" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" /></td>
+		</tr>
+		<tr>
+			<td align="center"><sub>Git</sub></td>
+			<td align="center"><sub>GitHub Actions</sub></td>
+			<td align="center"><sub>GitLab CI</sub></td>
+			<td align="center"><sub>Bitbucket</sub></td>
+		</tr>
+	</table>
+</div>
+
+
+<h3 align="center" style="font-size:1.5em;">🎨 UI/UX & Design</h3>
+<div align="center">
+	<table>
+		<tr>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" /></td>
+			<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" /></td>
+		</tr>
+		<tr>
+			<td align="center"><sub>Canva</sub></td>
+			<td align="center"><sub>Figma</sub></td>
+			<td align="center"><sub>Adobe XD</sub></td>
+		</tr>
+	</table>
+</div>
+
+
+<h3 align="center" style="font-size:1.5em;">🎥 Adobe Creative Suite</h3>
+<div align="center">
+	<table>
+		<tr>
+			<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg" alt="Adobe Creative Cloud" /></td>
+			<td align="center"><img width="40" src="https://get.adobe.com/reader/40ade5b0b8/images/adobe_logo.png" /></td>
+			<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" /></td>
+			<td align="center"><img width="40" src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects-40.svg" alt="Adobe After Effects" /></td>
+		</tr>
+		<tr>
+			<td align="center"><sub>Creative Cloud</sub></td>
+			<td align="center"><sub>Acrobat Reader</sub></td>
+			<td align="center"><sub>Illustrator</sub></td>
+			<td align="center"><sub>After Effects</sub></td>
+		</tr>
+	</table>
+</div>
+
+
+<h3 align="center" style="font-size:1.5em;">🖥️ Other Tools & Technologies</h3>
+<div align="center">
+	<table>
+		<tr>
+			<td align="center"><img width="40" src="https://store-images.s-microsoft.com/image/apps.8232.13926773940052066.8978812d-6c65-429b-835d-2cecd178e2d7.7cb2976d-0593-49c3-8ab7-8bce4a09d750?h=115" alt="Windows Terminal" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" /></td>
+			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" /></td>
+		</tr>
+		<tr>
+			<td align="center"><sub>Windows Terminal</sub></td>
+			<td align="center"><sub>Trello</sub></td>
+			<td align="center"><sub>NPM</sub></td>
+		</tr>
+	</table>
+</div>
+
+
+
+<h2 align="center" style="font-size:2em;">📊 GitHub Stats</h2>
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+	<br/>
+	<img src="https://nirzak-streak-stats.vercel.app/?user=Ridge19&theme=dark&hide_border=false" alt="GitHub Streak" />
+	<br/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+
+<h3 align="center" style="font-size:1.5em;">✍️ Random Dev Quote</h3>
+<div align="center">
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
