@@ -1,19 +1,31 @@
+
 <h1 align="center" style="font-size:3.5em;">👋 Hi, I'm Ridge Tagala!</h1>
+<div align="center">
+	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello" />
+</div>
 
 <h2 align="center" style="font-size:2.5em;">📚 About Me</h2>
-<ul>
-  <li>3rd-year Computer Science student @ RMIT University</li>
-  <li>💻 <strong>Full Stack Developer Intern</strong> at <a href="https://github.com/BusinessLocal">BusinessLocal</a></li>
-  <li>🚀 <strong>Software Engineer</strong> for <a href="https://www.linkedin.com/company/rmitroverteam/">RMIT Rover Team</a></li>
-  <li>🔍 <strong>Interests:</strong> Backend, Cybersecurity, Networking, AI, Automation</li>
-</ul>
+<div align="center">
+	<ul style="display: inline-block; text-align: left;">
+		<li>3rd-year Computer Science student @ RMIT University</li>
+		<li>💻 <strong>Full Stack Developer Intern</strong> at <a href="https://github.com/BusinessLocal">BusinessLocal</a></li>
+		<li>🚀 <strong>Software Engineer</strong> for <a href="https://www.linkedin.com/company/rmitroverteam/">RMIT Rover Team</a></li>
+		<li>🔍 <strong>Interests:</strong> Backend, Cybersecurity, Networking, AI, Automation</li>
+	</ul>
+</div>
+
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500" />
+</div>
 
 <h2 align="center" style="font-size:2em;">📚 Currently Studying</h2>
-<ul>
-  <li>🤖 <strong>Artificial Intelligence:</strong> <span style="color:gray;">Intelligent systems, search algorithms, machine learning</span></li>
-  <li>🧮 <strong>Computing Theory:</strong> <span style="color:gray;">Turing machines, automata, computation foundations</span></li>
-  <li>🛠️ <strong>Software Engineering:</strong> <span style="color:gray;">Agile, testing, version control, workflows</span></li>
-</ul>
+<div align="center">
+	<ul style="display: inline-block; text-align: left;">
+		<li>🤖 <strong>Artificial Intelligence:</strong> <span style="color:gray;">Intelligent systems, search algorithms, machine learning</span></li>
+		<li>🧮 <strong>Computing Theory:</strong> <span style="color:gray;">Turing machines, automata, computation foundations</span></li>
+		<li>🛠️ <strong>Software Engineering:</strong> <span style="color:gray;">Agile, testing, version control, workflows</span></li>
+	</ul>
+</div>
 
 <h2 align="center" style="font-size:2em;">📊 GitHub Stats</h2>
 <div align="center">
