@@ -66,19 +66,19 @@
 	<table>
 		<tr>
 			<td align="center">
-				<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+				<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
 			</td>
 			<td align="center">
-				<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+				<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
 			</td>
 			<td align="center">
-				<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+				<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
 			</td>
 			<td align="center">
-				<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JavaFX" />
+				<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JavaFX" />
 			</td>
 			<td align="center">
-				<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" />
+				<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" />
 			</td>
 		</tr>
 		<tr>
@@ -96,11 +96,11 @@
 <div align="center">
 	<table>
 		<tr>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" /></td>
-			<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" /></td>
-			<td align="center"><img width="40" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeORM" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" /></td>
+			<td align="center"><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" /></td>
+			<td align="center"><img width="70" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeORM" /></td>
 		</tr>
 		<tr>
 			<td align="center"><sub>NodeJS</sub></td>
@@ -117,9 +117,9 @@
 <div align="center">
 	<table>
 		<tr>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" /></td>
-			<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="Microsoft SQL Server" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" /></td>
+			<td align="center"><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="Microsoft SQL Server" /></td>
 		</tr>
 		<tr>
 			<td align="center"><sub>MySQL</sub></td>
@@ -134,10 +134,10 @@
 <div align="center">
 	<table>
 		<tr>
-			<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" /></td>
+			<td align="center"><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" /></td>
 		</tr>
 		<tr>
 			<td align="center"><sub>AWS</sub></td>
@@ -153,10 +153,10 @@
 <div align="center">
 	<table>
 		<tr>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></td>
 		</tr>
 		<tr>
 			<td align="center"><sub>C++</sub></td>
@@ -172,11 +172,11 @@
 <div align="center">
 	<table>
 		<tr>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" /></td>
-			<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" /></td>
-			<td align="center"><img width="40" src="https://scipy.org/images/logo.svg" alt="Scipy" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" /></td>
+			<td align="center"><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" /></td>
+			<td align="center"><img width="70" src="https://scipy.org/images/logo.svg" alt="Scipy" /></td>
 		</tr>
 		<tr>
 			<td align="center"><sub>Pandas</sub></td>
@@ -193,10 +193,10 @@
 <div align="center">
 	<table>
 		<tr>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></td>
-			<td align="center"><img width="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Actions" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab CI" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></td>
+			<td align="center"><img width="70" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Actions" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab CI" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" /></td>
 		</tr>
 		<tr>
 			<td align="center"><sub>Git</sub></td>
@@ -212,9 +212,9 @@
 <div align="center">
 	<table>
 		<tr>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" /></td>
-			<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" /></td>
+			<td align="center"><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" /></td>
 		</tr>
 		<tr>
 			<td align="center"><sub>Canva</sub></td>
@@ -229,10 +229,10 @@
 <div align="center">
 	<table>
 		<tr>
-			<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg" alt="Adobe Creative Cloud" /></td>
-			<td align="center"><img width="40" src="https://get.adobe.com/reader/40ade5b0b8/images/adobe_logo.png" /></td>
-			<td align="center"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" /></td>
-			<td align="center"><img width="40" src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects-40.svg" alt="Adobe After Effects" /></td>
+			<td align="center"><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg" alt="Adobe Creative Cloud" /></td>
+			<td align="center"><img width="70" src="https://get.adobe.com/reader/40ade5b0b8/images/adobe_logo.png" /></td>
+			<td align="center"><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" /></td>
+			<td align="center"><img width="70" src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects-40.svg" alt="Adobe After Effects" /></td>
 		</tr>
 		<tr>
 			<td align="center"><sub>Creative Cloud</sub></td>
@@ -248,9 +248,9 @@
 <div align="center">
 	<table>
 		<tr>
-			<td align="center"><img width="40" src="https://store-images.s-microsoft.com/image/apps.8232.13926773940052066.8978812d-6c65-429b-835d-2cecd178e2d7.7cb2976d-0593-49c3-8ab7-8bce4a09d750?h=115" alt="Windows Terminal" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" /></td>
-			<td align="center"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" /></td>
+			<td align="center"><img width="70" src="https://store-images.s-microsoft.com/image/apps.8232.13926773940052066.8978812d-6c65-429b-835d-2cecd178e2d7.7cb2976d-0593-49c3-8ab7-8bce4a09d750?h=115" alt="Windows Terminal" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" /></td>
+			<td align="center"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" /></td>
 		</tr>
 		<tr>
 			<td align="center"><sub>Windows Terminal</sub></td>
