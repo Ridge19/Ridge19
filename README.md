@@ -26,26 +26,24 @@
 
 <h2 align="center" style="font-size:2em;">🌐 Socials</h2>
 
-
-
-<div align="center" style="display: flex; gap: 40px; justify-content: center;">
-	<div style="display: flex; flex-direction: column; align-items: center;">
+<div align="center" style="display: flex; flex-direction: row; gap: 60px; justify-content: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<a href="https://instagram.com/Ridge.zip">
 			<img width="50" height="50" alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
 		</a>
-		<sub>Instagram</sub>
+		<span style="font-size:1.1em;">Instagram</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<a href="https://www.linkedin.com/in/ridge-tagala2002/">
 			<img width="50" height="50" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 		</a>
-		<sub>LinkedIn</sub>
+		<span style="font-size:1.1em;">LinkedIn</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<a href="https://riidgyy.com">
 			<img width="50" height="50" alt="Portfolio" src="assets/favicon.png" />
 		</a>
-		<sub>Portfolio</sub>
+		<span style="font-size:1.1em;">Portfolio</span>
 	</div>
 </div>
 
@@ -58,140 +56,146 @@
 
 <h3 align="center" style="font-size:1.5em;">🌐 Frontend Development</h3>
 
-<div align="center" style="display: flex; gap: 40px; justify-content: center;">
-	<div style="display: flex; flex-direction: column; align-items: center;">
+
+<div align="center" style="display: flex; flex-direction: row; gap: 60px; justify-content: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
-		<sub>HTML5</sub>
+		<span style="font-size:1.1em;">HTML5</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-		<sub>JavaScript</sub>
+		<span style="font-size:1.1em;">JavaScript</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
-		<sub>TypeScript</sub>
+		<span style="font-size:1.1em;">TypeScript</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JavaFX" />
-		<sub>JavaFX</sub>
+		<span style="font-size:1.1em;">JavaFX</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" />
-		<sub>Flutter</sub>
+		<span style="font-size:1.1em;">Flutter</span>
 	</div>
 </div>
 
 
 <h3 align="center" style="font-size:1.5em;">🖥️ Backend Development</h3>
 
-<div align="center" style="display: flex; gap: 40px; justify-content: center;">
-	<div style="display: flex; flex-direction: column; align-items: center;">
+
+<div align="center" style="display: flex; flex-direction: row; gap: 60px; justify-content: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" />
-		<sub>NodeJS</sub>
+		<span style="font-size:1.1em;">NodeJS</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" />
-		<sub>Laravel</sub>
+		<span style="font-size:1.1em;">Laravel</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" />
-		<sub>Apache</sub>
+		<span style="font-size:1.1em;">Apache</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" />
-		<sub>GraphQL</sub>
+		<span style="font-size:1.1em;">GraphQL</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeORM" />
-		<sub>TypeORM</sub>
+		<span style="font-size:1.1em;">TypeORM</span>
 	</div>
 </div>
 
 
 <h3 align="center" style="font-size:1.5em;">🗄️ Databases</h3>
 
-<div align="center" style="display: flex; gap: 40px; justify-content: center;">
-	<div style="display: flex; flex-direction: column; align-items: center;">
+
+<div align="center" style="display: flex; flex-direction: row; gap: 60px; justify-content: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
-		<sub>MySQL</sub>
+		<span style="font-size:1.1em;">MySQL</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" />
-		<sub>SQLite</sub>
+		<span style="font-size:1.1em;">SQLite</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="Microsoft SQL Server" />
-		<sub>MS SQL Server</sub>
+		<span style="font-size:1.1em;">MS SQL Server</span>
 	</div>
 </div>
 
 
 <h3 align="center" style="font-size:1.5em;">☁️ Cloud & DevOps</h3>
 
-<div align="center" style="display: flex; gap: 40px; justify-content: center;">
-	<div style="display: flex; flex-direction: column; align-items: center;">
+
+<div align="center" style="display: flex; flex-direction: row; gap: 60px; justify-content: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" />
-		<sub>AWS</sub>
+		<span style="font-size:1.1em;">AWS</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" />
-		<sub>Firebase</sub>
+		<span style="font-size:1.1em;">Firebase</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" />
-		<sub>Google Cloud</sub>
+		<span style="font-size:1.1em;">Google Cloud</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
-		<sub>Docker</sub>
+		<span style="font-size:1.1em;">Docker</span>
 	</div>
 </div>
 
 
 <h3 align="center" style="font-size:1.5em;">🔢 Programming Languages</h3>
 
-<div align="center" style="display: flex; gap: 40px; justify-content: center;">
-	<div style="display: flex; flex-direction: column; align-items: center;">
+
+<div align="center" style="display: flex; flex-direction: row; gap: 60px; justify-content: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
-		<sub>C++</sub>
+		<span style="font-size:1.1em;">C++</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" />
-		<sub>C#</sub>
+		<span style="font-size:1.1em;">C#</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
-		<sub>Java</sub>
+		<span style="font-size:1.1em;">Java</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
-		<sub>Python</sub>
+		<span style="font-size:1.1em;">Python</span>
 	</div>
 </div>
 
 
 <h3 align="center" style="font-size:1.5em;">📊 Data Science & Machine Learning</h3>
 
-<div align="center" style="display: flex; gap: 40px; justify-content: center;">
-	<div style="display: flex; flex-direction: column; align-items: center;">
+
+<div align="center" style="display: flex; flex-direction: row; gap: 60px; justify-content: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" />
-		<sub>Pandas</sub>
+		<span style="font-size:1.1em;">Pandas</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" />
-		<sub>NumPy</sub>
+		<span style="font-size:1.1em;">NumPy</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" />
-		<sub>Matplotlib</sub>
+		<span style="font-size:1.1em;">Matplotlib</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/250px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" />
-		<sub>scikit-learn</sub>
+		<span style="font-size:1.1em;">scikit-learn</span>
 	</div>
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
 		<img width="40" src="https://scipy.org/images/logo.svg" alt="Scipy" />
-		<sub>Scipy</sub>
+		<span style="font-size:1.1em;">Scipy</span>
 	</div>
 </div>
 
