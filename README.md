@@ -1,3 +1,9 @@
+<style>
+td, tr, th {
+   border: none!important;
+}
+</style>
+
 <h1 align="center" style="font-size:3.5em;">👋 Hi, I'm Ridge Tagala!</h1>
 
 <h2 align="center" style="font-size:2.5em;">📚 About Me</h2>
