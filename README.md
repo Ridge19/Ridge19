@@ -1,15 +1,28 @@
-<h1 align="center" style="font-size:2.5em;">👋 Hi, I'm Ridge Tagala!</h1>
+<h1 align="center" style="font-size:3.5em;">👋 Hi, I'm Ridge Tagala!</h1>
 
-<h2 align="center" style="font-size:2em;">📚 About Me</h2>
-- 🎓 3rd-year Bachelor of Computer Science @ RMIT University  
-- 💻 Full Stack Developer Intern @[BusinessLocal](https://github.com/BusinessLocal)
-- 🚀 Software Engineer for RMIT Rover Team @[RMIT Rover](https://www.linkedin.com/company/rmitroverteam/)
-- 🔍 Interested in Full-stack Development (Backend), Cybersecurity, Networking, AI, and Automation
+<h2 align="center" style="font-size:2.5em;">📚 About Me</h2>
+<ul>
+  <li>3rd-year Computer Science student @ RMIT University</li>
+  <li>💻 <strong>Full Stack Developer Intern</strong> at <a href="https://github.com/BusinessLocal">BusinessLocal</a></li>
+  <li>🚀 <strong>Software Engineer</strong> for <a href="https://www.linkedin.com/company/rmitroverteam/">RMIT Rover Team</a></li>
+  <li>🔍 <strong>Interests:</strong> Backend, Cybersecurity, Networking, AI, Automation</li>
+</ul>
 
 <h2 align="center" style="font-size:2em;">📚 Currently Studying</h2>
-- 🤖 Artificial Intelligence – Exploring intelligent systems, search algorithms, and machine learning techniques
-- 🧮 Computing Theory – Turing machines, automata, and the foundations of computation
-- 🛠️ Software Engineering: Processes & Tools – Agile, testing, version control, and modern development workflows
+<ul>
+  <li>🤖 <strong>Artificial Intelligence:</strong> <span style="color:gray;">Intelligent systems, search algorithms, machine learning</span></li>
+  <li>🧮 <strong>Computing Theory:</strong> <span style="color:gray;">Turing machines, automata, computation foundations</span></li>
+  <li>🛠️ <strong>Software Engineering:</strong> <span style="color:gray;">Agile, testing, version control, workflows</span></li>
+</ul>
+
+<h2 align="center" style="font-size:2em;">📊 GitHub Stats</h2>
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+	<br/>
+	<img src="https://nirzak-streak-stats.vercel.app/?user=Ridge19&theme=dark&hide_border=false" alt="GitHub Streak" />
+	<br/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 <h2 align="center" style="font-size:2em;">🌐 Socials</h2>
 
@@ -246,18 +259,6 @@
 		</tr>
 	</table>
 </div>
-
-
-
-<h2 align="center" style="font-size:2em;">📊 GitHub Stats</h2>
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-	<br/>
-	<img src="https://nirzak-streak-stats.vercel.app/?user=Ridge19&theme=dark&hide_border=false" alt="GitHub Streak" />
-	<br/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
 
 <h3 align="center" style="font-size:1.5em;">✍️ Random Dev Quote</h3>
 <div align="center">
