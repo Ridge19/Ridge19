@@ -19,14 +19,14 @@
 	<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500" />
 </div>
 
-<h2 align="center" style="font-size:2em;">📚 Currently Studying</h2>
+<!-- <h2 align="center" style="font-size:2em;">📚 Currently Studying</h2>
 <div align="center">
 	<ul style="display: inline-block; text-align: left;">
 		<li>🤖 <strong>Artificial Intelligence:</strong> <span style="color:gray;">Intelligent systems, search algorithms, machine learning</span></li>
 		<li>🧮 <strong>Computing Theory:</strong> <span style="color:gray;">Turing machines, automata, computation foundations</span></li>
 		<li>🛠️ <strong>Software Engineering:</strong> <span style="color:gray;">Agile, testing, version control, workflows</span></li>
 	</ul>
-</div>
+</div> -->
 
 <h2 align="center" style="font-size:2em;">📊 GitHub Stats</h2>
 <div align="center">
