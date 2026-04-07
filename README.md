@@ -30,12 +30,13 @@
 
 <h2 align="center" style="font-size:2em;">📊 GitHub Stats</h2>
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-	<br/>
-	<img src="https://nirzak-streak-stats.vercel.app/?user=Ridge19&theme=dark&hide_border=false" alt="GitHub Streak" />
-	<br/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=Ridge19&theme=dark&hide_border=false" alt="GitHub Streak" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+
 
 <h2 align="center" style="font-size:2em;">🌐 Socials</h2>
 
