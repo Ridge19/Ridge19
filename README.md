@@ -29,14 +29,23 @@
 </div> -->
 
 <h2 align="center" style="font-size:2em;">📊 GitHub Stats</h2>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ridge19)](https://git.io/streak-stats)
-<!-- <div align="center">
-<img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ridge19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <br/>
-<img src="https://streak-stats.demolab.com?user=Ridge19&theme=dark&hide_border=false" alt="GitHub Streak" />
+
+<!-- GitHub Streak (new API) -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Ridge19&theme=dark&hide_border=false" alt="GitHub Streak" />
+</a>
 <br/>
-<img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=Ridge19&theme=dark&hide_border=false&layout=compact&cache_seconds=1800" alt="Top Languages" />
-</div> -->
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridge19&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+
+</div>
 
 
 <h2 align="center" style="font-size:2em;">🌐 Socials</h2>
