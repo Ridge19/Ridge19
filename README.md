@@ -9,8 +9,8 @@
 <div align="center">
 	<ul style="display: inline-block; text-align: left;">
 		<li>3rd-year Computer Science student @ RMIT University</li>
-		<li>💻 <strong>Full Stack Developer ex-Intern</strong> at <a href="https://github.com/BusinessLocal">BusinessLocal</a></li>
-		<li>🚀 <strong>Software Engineer</strong> for <a href="https://www.linkedin.com/company/rmitroverteam/">RMIT Rover Team</a></li>
+		<li>💻 <strong>ex-Full Stack developer for BusinessLocaln</strong> at <a href="https://github.com/BusinessLocal">BusinessLocal</a></li>
+		<li>🚀 <strong>ex-Software Engineer</strong> for <a href="https://www.linkedin.com/company/rmitroverteam/">RMIT Rover Team</a></li>
 		<li>🔍 <strong>Interests:</strong> Backend, Cybersecurity, Networking, AI, Automation</li>
 	</ul>
 </div>
