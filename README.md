@@ -8,10 +8,16 @@
 </div>
 <div align="center">
 	<ul style="display: inline-block; text-align: left;">
-		<li>3rd-year Computer Science student @ RMIT University</li>
+		<li>💻 <strong>Junior Conversational Specialist</strong> at <a href="https://www.tpgtelecom.com.au/">TPG Telecom</a></li>
+	</ul>
+</div>
+
+<div align="center">
+	<ul style="display: inline-block; text-align: left;">
+		<li>Previous Experience:</li>
 		<li>💻 <strong>ex-Full Stack developer for BusinessLocaln</strong> at <a href="https://github.com/BusinessLocal">BusinessLocal</a></li>
 		<li>🚀 <strong>ex-Software Engineer</strong> for <a href="https://www.linkedin.com/company/rmitroverteam/">RMIT Rover Team</a></li>
-		<li>🔍 <strong>Interests:</strong> Backend, Cybersecurity, Networking, AI, Automation</li>
+		<li>🔍 <strong>ex-Student Connect Concierge</strong> for <a href="https://www.linkedin.com/company/rmitroverteam/">RMIT University</a></li>
 	</ul>
 </div>
 
